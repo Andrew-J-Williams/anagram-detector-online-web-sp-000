@@ -8,11 +8,7 @@ class Anagram
   end
 
   def match(name_array)
-    name_array.find do |word|
-      if word == @name
-        word
-      end
-    end
+  
 
   end
 
