@@ -13,7 +13,7 @@ class Anagram
       some_word = word
 
       
-      
+
     end
   end
 
