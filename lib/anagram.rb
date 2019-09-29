@@ -9,10 +9,7 @@ class Anagram
 
   def match(name_array)
 
-    name_array.each do |word|
-      word.to_s
-      
-    end
+    
   end
 
 end
