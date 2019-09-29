@@ -8,12 +8,12 @@ class Anagram
   end
 
   def match(name_array)
-    matches = []
+    matches = " "
 
     name_array.each do |word|
       letters = word.split
     end
-    letters
+    
 
   end
 
