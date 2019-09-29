@@ -11,8 +11,8 @@ class Anagram
 
     name_array.each do |word|
       some_word = word
-
-      
+      split_word = some_word.split(" ")
+      split_word
 
     end
   end
