@@ -12,9 +12,8 @@ class Anagram
 
     name_array.each do |word|
       letters = word.split
-
     end
-
+    letters
 
   end
 
