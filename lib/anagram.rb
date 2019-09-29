@@ -11,9 +11,9 @@ class Anagram
     matches = " "
 
     name_array.each do |word|
-      letters = word.split
+      matches = word.split
     end
-
+    matches
 
   end
 
