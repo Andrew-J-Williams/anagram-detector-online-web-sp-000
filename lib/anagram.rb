@@ -11,7 +11,7 @@ class Anagram
     name_array.find do |word|
 
     end
-    
+
   end
 
 end
